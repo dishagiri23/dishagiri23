@@ -1,4 +1,4 @@
-
+https://github.com/dishagiri23/dishagiri23/blob/main/ezgif-7f2f40111a7a2b.gif
 
 # 💫 About Me:
 - 🔭 Currently working on: my portfolio website<br>- 🤝 Looking to collaborate on: beginner-friendly open source projects<br>- 💛 Need help with: backend development<br>- 🌱 Learning: TypeScript and AWS<br>- 💬 Ask me about: JavaScript and UI design<br>- ⚡ Fun fact: I love collecting Rubik’s cubes!
