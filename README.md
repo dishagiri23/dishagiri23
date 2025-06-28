@@ -1,5 +1,4 @@
 
-https://github.com/dishagiri23/dishagiri23/blob/main/Web%20%20development.mp4
 
 # 💫 About Me:
 - 🔭 Currently working on: my portfolio website<br>- 🤝 Looking to collaborate on: beginner-friendly open source projects<br>- 💛 Need help with: backend development<br>- 🌱 Learning: TypeScript and AWS<br>- 💬 Ask me about: JavaScript and UI design<br>- ⚡ Fun fact: I love collecting Rubik’s cubes!
